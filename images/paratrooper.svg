@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="paratrooper" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="80px" height="110px" viewBox="0 0 80 110" enable-background="new 0 0 80 110" xml:space="preserve">
+<g id="chute">
+	<line fill="#F2F2F2" stroke="#B99EB3" stroke-width="2" stroke-miterlimit="10" x1="3.115" y1="42.755" x2="28.188" y2="62.934"/>
+	<line fill="#F2F2F2" stroke="#B79FB2" stroke-width="2" stroke-miterlimit="10" x1="55.688" y1="62.525" x2="76.563" y2="39.5"/>
+	<line fill="#F2F2F2" stroke="#BAA0B4" stroke-width="2" stroke-miterlimit="10" x1="24.5" y1="34.9" x2="39.75" y2="74.15"/>
+	<line fill="#F2F2F2" stroke="#B197AD" stroke-width="2" stroke-miterlimit="10" x1="56.25" y1="37.65" x2="42.875" y2="74.15"/>
+	<g>
+		<path fill="#EFD5E7" d="M17.845,35.971c2.96,0,5.744,0.625,8.188,1.717c3.199-3.508,8.215-5.78,13.874-5.78
+			c6.688,0,12.493,3.161,15.44,7.805c2.785-1.577,6.139-2.498,9.746-2.498c4.982,0,9.467,1.763,12.654,4.575
+			c0.221-1.497,0.346-3.021,0.346-4.575c0-19.02-17.097-34.438-38.188-34.438c-21.09,0-38.188,15.418-38.188,34.438
+			c0,2.237,0.245,4.423,0.697,6.54C5.366,39.122,11.167,35.971,17.845,35.971z"/>
+	</g>
+</g>
+<rect x="25.871" y="64.486" fill="#EFD2D0" width="4.92" height="2.709"/>
+<rect x="52.023" y="64.486" fill="#EFD2D0" width="4.92" height="2.709"/>
+<rect x="25.871" y="61.777" fill="#FFFFFF" width="4.921" height="2.709"/>
+<rect x="52.023" y="61.777" fill="#FFFFFF" width="4.92" height="2.709"/>
+<path fill="#A81E32" d="M41.063,52.912c-4.383,0-7.938,3.665-7.938,8.188c0,2.476,1.068,4.688,2.75,6.188v-0.093H46.35
+	c1.623-1.5,2.65-3.672,2.65-6.096C49,56.577,45.445,52.912,41.063,52.912z"/>
+<rect x="35.875" y="58.673" fill="#F7EBD7" width="10.229" height="8.522"/>
+<polygon fill="#E8D3D1" points="43.688,72.877 38.716,72.877 38.716,70.036 38.716,67.195 43.688,67.195 "/>
+<rect x="28.204" y="103.874" fill="#503718" width="7.671" height="2.614"/>
+<rect x="28.204" y="105.988" fill="#322012" width="7.671" height="2.813"/>
+<rect x="46.518" y="104.072" fill="#503718" width="7.67" height="2.615"/>
+<rect x="46.518" y="106.188" fill="#322012" width="7.67" height="2.813"/>
+<polygon fill="#AF3425" stroke="#010101" stroke-miterlimit="10" points="30.875,67.288 25.875,67.195 25.875,71.775 35.875,78.859 
+	35.875,89.354 30.619,92.764 30.761,103.984 35.875,103.984 35.875,95.746 41.201,92.621 46.104,95.462 46.104,103.984 
+	51.784,103.984 51.784,92.904 46.104,89.779 46.104,78.559 56.943,71.775 56.943,67.195 51.5,67.195 43.688,72.877 38.716,72.877 
+	"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
